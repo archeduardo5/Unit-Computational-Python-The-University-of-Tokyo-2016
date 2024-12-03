@@ -63,4 +63,4 @@ Let's begin this learning journey!
 
 
 
-🦏🐍 🐍🔧 🦏💻 Lecture Python Unit Copomputer Design 💻
+🦏🐍 🐍🔧 🦏💻 Lecture Python Unit Computer Design 💻
