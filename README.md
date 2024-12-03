@@ -1,3 +1,12 @@
+![UNIT-COMPUTATIONAL_RHINOCEROS_PYTHON](https://github.com/user-attachments/assets/ea220e28-1ec0-427b-846c-911b5c3645ff)
+
+_____
+  /     \
+ /       \   🐍 Python
+(  Rhino  )    & Scripting
+ \_______/
+
+
 # Rhino Python Lecture - Day 1: Introduction to Python
 
 ## 1. Introduction to Programming Language
@@ -22,13 +31,16 @@ In the vast world of programming languages, there are multiple options such as C
   - Allow faster code execution and testing
 - **Examples**: Ruby, Python
 
-![UNIT-COMPUTATIONAL_RHINOCEROS_PYTHON](https://github.com/user-attachments/assets/ea220e28-1ec0-427b-846c-911b5c3645ff)
 
 ### 1.3 Advantages of Python as a Scripting Language
 - Faster and more agile development
 - Ease of testing and code revision
 - Clear and readable syntax
 - Extensive libraries and frameworks
+
+
+![UNIT-COMPUTATIONAL_RHINOCEROS](https://github.com/user-attachments/assets/89e560c9-eeda-4a5c-83cf-060e2260e529)
+
 
 ## Next Steps
 In this lecture series, we will explore Python fundamentals, its syntax, and how to leverage its potential in various projects.
@@ -37,11 +49,8 @@ Let's begin this learning journey!
 
 
 
-
-
-
-![UNIT-COMPUTATIONAL_RHINOCEROS](https://github.com/user-attachments/assets/89e560c9-eeda-4a5c-83cf-060e2260e529)
-
-
-
 ![ARDUINO BREAD](https://github.com/user-attachments/assets/9fb65d5b-52ce-4c6d-970f-8bd21cc3d195)
+
+
+
+                                                                                           🦏🐍 🐍🔧 🦏💻 Lecture Python Unit Copomputer Design 💻
