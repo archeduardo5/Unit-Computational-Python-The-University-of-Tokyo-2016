@@ -1,11 +1,21 @@
 ![UNIT-COMPUTATIONAL_RHINOCEROS_PYTHON](https://github.com/user-attachments/assets/ea220e28-1ec0-427b-846c-911b5c3645ff)
 
-_____
-  /     \
- /       \   🐍 Python
-(  Rhino  )    & Scripting
- \_______/
 
+
+
+
+
+_____
+        /     \
+       /       \   
+      (  🦏  )    🐍 Python & Scripting
+       \     /
+        \___/
+
+
+
+
+        
 
 # Rhino Python Lecture - Day 1: Introduction to Python
 
